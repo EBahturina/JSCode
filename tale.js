@@ -25,7 +25,7 @@ function newYear(name) {
     const c = ` " `;
 
     
-     console.log(`${c}`+`${name}`+`${a}`+`${b}``${c}`+`${name}`+`${a}`+`${b}``${c}`+`${name}`+`${a}`+`${b}`);
+     console.log(`${c}`+`${name}`+`${a}`+`${b}`+`${name}`+`${a}`+`${b}`+`${name}`+`${a}`+`${b}`+`${c}`);
     
     
 }
